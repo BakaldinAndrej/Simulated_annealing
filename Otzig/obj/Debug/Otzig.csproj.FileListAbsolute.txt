@@ -1,0 +1,10 @@
+C:\Users\bbEtman\source\repos\Otzig\Otzig\bin\Debug\Otzig.exe.config
+C:\Users\bbEtman\source\repos\Otzig\Otzig\bin\Debug\Otzig.exe
+C:\Users\bbEtman\source\repos\Otzig\Otzig\bin\Debug\Otzig.pdb
+C:\Users\bbEtman\source\repos\Otzig\Otzig\obj\Debug\Otzig.csprojResolveAssemblyReference.cache
+C:\Users\bbEtman\source\repos\Otzig\Otzig\obj\Debug\Otzig.Form1.resources
+C:\Users\bbEtman\source\repos\Otzig\Otzig\obj\Debug\Otzig.Properties.Resources.resources
+C:\Users\bbEtman\source\repos\Otzig\Otzig\obj\Debug\Otzig.csproj.GenerateResource.Cache
+C:\Users\bbEtman\source\repos\Otzig\Otzig\obj\Debug\Otzig.csproj.CoreCompileInputs.cache
+C:\Users\bbEtman\source\repos\Otzig\Otzig\obj\Debug\Otzig.exe
+C:\Users\bbEtman\source\repos\Otzig\Otzig\obj\Debug\Otzig.pdb
